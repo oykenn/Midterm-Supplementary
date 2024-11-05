@@ -1,0 +1,14 @@
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\bin\Debug\net8.0\Supplementary.exe
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\bin\Debug\net8.0\Supplementary.deps.json
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\bin\Debug\net8.0\Supplementary.runtimeconfig.json
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\bin\Debug\net8.0\Supplementary.dll
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\bin\Debug\net8.0\Supplementary.pdb
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\Supplementary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\Supplementary.AssemblyInfoInputs.cache
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\Supplementary.AssemblyInfo.cs
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\Supplementary.csproj.CoreCompileInputs.cache
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\Supplementary.dll
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\refint\Supplementary.dll
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\Supplementary.pdb
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\Supplementary.genruntimeconfig.cache
+C:\Users\Kenn\Desktop\jsa prac\TPs\Supplementary\obj\Debug\net8.0\ref\Supplementary.dll
